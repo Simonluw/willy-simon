@@ -1,0 +1,62 @@
+.card{
+
+	background-color: #EEEEEE;
+}
+
+#title{
+border: 1px;
+margin-top: 20px;
+margin-bottom: 20px;
+text-align: center;
+
+}
+
+.rounded{
+border: 1px;
+margin-left: 40px;
+
+}
+#img-caption{
+border: 1px;
+margin-left: 140px;
+
+}
+
+#image-div {
+	display: block;
+	width: 100%;
+	height: auto;
+	
+}
+
+
+#belowtitle{
+	text-align: center;
+}
+#tribute-info{
+margin-left: 28%;
+margin-right: 20%;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+
+li{
+	border: 1px;
+	padding: 10px;
+}
+ul{
+border: 1px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.blockquote{
+margin-left: 20%;
+margin-right: 20%;
+font-size: 15px;
+}
+#tribute {
+margin-left: 10%;
+margin-right: 10%;
+padding-top: 10px;
+padding-bottom: 10px;
+}
